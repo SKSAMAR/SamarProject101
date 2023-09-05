@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SamarProject101</string>
+
+    <string name="refine">Refine</string>
+    <string name="SelectYourAvailability">Select Your Availability</string>
+
+    <string name="AddYourStatus">Add Your Status</string>
+
+    <string name="SelectHyperlocalDistance">Select Hyper local Distance</string>
+    <string name="SelectPurpose">Select Purpose</string>
+
+    <string name="AvailableHeyLetUsConnect">Available | Hey Let Us Connect</string>
+    <string name="AwayStayDiscreteAndWatch">Away | Stay Discrete And Watch</string>
+    <string name="BusyDonotDisturbWillCatchUpLater">Busy | Do not Disturb | Will Catch Up Later</string>
+    <string name="SOSEmergencyNeedAssistanceHELP">SOS | Emergency! Need Assistance! HELP</string>
+
+
+    <string name="Coffee">Coffee</string>
+    <string name="Business">Business</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="Friendship">Friendship</string>
+    <string name="Movies">Movies</string>
+    <string name="Dinning">Dinning</string>
+    <string name="Dating">Dating</string>
+    <string name="Matrimony">Matrimony</string>
+
+    <string name="SaveAndExplore">Save &amp; Explore</string>
+
+    <string name="Howdy">Howdy</string>
+    <string name="Search">Search</string>
+
+    <string name="Personal">Personal</string>\
+    <string name="Merchant">Merchant</string>
+
+</resources>
